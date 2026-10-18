@@ -1,0 +1,16 @@
+
+.ipynb_checkpoints/
+gpd_venv/
+fc_MalemHodar/
+
+fcmalem.dbf
+fcmalem.prj
+fcmalem.shp
+fcmalem.shx
+
+points.dbf
+points.prj
+points.shp
+points.shx
+geopandas_lecture.pdf
+read_file.ipynb
